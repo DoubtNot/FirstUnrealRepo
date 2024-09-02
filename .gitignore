@@ -80,3 +80,11 @@ Blasphemy/Saved/AutoScreenshot.png
 *.umap
 
 *.bin
+
+*.dmp
+
+Blasphemy/Content/.DS_Store
+
+Blasphemy/Content/Asian_Village/.DS_Store
+
+Blasphemy/Content/LevelPrototyping/.DS_Store
